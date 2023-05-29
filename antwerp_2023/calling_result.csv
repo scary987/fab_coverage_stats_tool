@@ -1,0 +1,361 @@
+Hero1, Hero2, Win, Loss, Draw, Games, Win%
+"Viserai, Rune Blood","Viserai, Rune Blood",0,0,0,0,-
+"Viserai, Rune Blood","Iyslander, ﻿Stormbind",0,1,0,1,0.00%
+"Viserai, Rune Blood","Dash, Inventor Extraordinaire",1,3,0,4,25.00%
+"Viserai, Rune Blood",Dorinthea Ironsong,1,0,0,1,100.00%
+"Viserai, Rune Blood","Lexi, Livewire",2,4,0,6,33.33%
+"Viserai, Rune Blood","Briar, Warden of Thorns",0,2,0,2,0.00%
+"Viserai, Rune Blood","Dromai, ﻿Ash Artist",2,4,0,6,33.33%
+"Viserai, Rune Blood","Fai, ﻿Rising Rebellion",0,2,0,2,0.00%
+"Viserai, Rune Blood","Uzuri, Switchblade",0,0,0,0,-
+"Viserai, Rune Blood","Levia, Shadowborn Abomination",0,0,0,0,-
+"Viserai, Rune Blood","Kano, Dracai of Aether",0,0,0,0,-
+"Viserai, Rune Blood","Azalea, Ace in the Hole",1,0,0,1,100.00%
+"Viserai, Rune Blood","Rhinar, Reckless Rampage",1,0,0,1,100.00%
+"Viserai, Rune Blood","Bravo, Star of the Show",0,0,0,0,-
+"Viserai, Rune Blood","Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+"Viserai, Rune Blood","Bravo, Showstopper",2,3,0,5,40.00%
+"Viserai, Rune Blood","Oldhim, Grandfather of Eternity",7,5,0,12,58.33%
+"Viserai, Rune Blood","Katsu, the Wanderer",1,0,0,1,100.00%
+"Viserai, Rune Blood",CLEANTOTAL,18,-,-,42,42.86%
+"Viserai, Rune Blood",TOTAL,18,-,-,42,42.86%
+"Iyslander, ﻿Stormbind","Viserai, Rune Blood",1,0,0,1,100.00%
+"Iyslander, ﻿Stormbind","Iyslander, ﻿Stormbind",1,1,0,2,50.00%
+"Iyslander, ﻿Stormbind","Dash, Inventor Extraordinaire",1,0,0,1,100.00%
+"Iyslander, ﻿Stormbind",Dorinthea Ironsong,0,3,0,3,0.00%
+"Iyslander, ﻿Stormbind","Lexi, Livewire",7,19,0,26,26.92%
+"Iyslander, ﻿Stormbind","Briar, Warden of Thorns",3,1,0,4,75.00%
+"Iyslander, ﻿Stormbind","Dromai, ﻿Ash Artist",0,8,0,8,0.00%
+"Iyslander, ﻿Stormbind","Fai, ﻿Rising Rebellion",0,2,0,2,0.00%
+"Iyslander, ﻿Stormbind","Uzuri, Switchblade",0,1,0,1,0.00%
+"Iyslander, ﻿Stormbind","Levia, Shadowborn Abomination",0,0,0,0,-
+"Iyslander, ﻿Stormbind","Kano, Dracai of Aether",1,0,0,1,100.00%
+"Iyslander, ﻿Stormbind","Azalea, Ace in the Hole",2,0,0,2,100.00%
+"Iyslander, ﻿Stormbind","Rhinar, Reckless Rampage",1,5,0,6,16.67%
+"Iyslander, ﻿Stormbind","Bravo, Star of the Show",0,0,0,0,-
+"Iyslander, ﻿Stormbind","Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+"Iyslander, ﻿Stormbind","Bravo, Showstopper",1,1,0,2,50.00%
+"Iyslander, ﻿Stormbind","Oldhim, Grandfather of Eternity",12,4,0,16,75.00%
+"Iyslander, ﻿Stormbind","Katsu, the Wanderer",4,3,0,7,57.14%
+"Iyslander, ﻿Stormbind",CLEANTOTAL,33,-,-,80,41.25%
+"Iyslander, ﻿Stormbind",TOTAL,34,-,-,82,41.46%
+"Dash, Inventor Extraordinaire","Viserai, Rune Blood",3,1,0,4,75.00%
+"Dash, Inventor Extraordinaire","Iyslander, ﻿Stormbind",0,1,0,1,0.00%
+"Dash, Inventor Extraordinaire","Dash, Inventor Extraordinaire",2,2,0,4,50.00%
+"Dash, Inventor Extraordinaire",Dorinthea Ironsong,1,1,0,2,50.00%
+"Dash, Inventor Extraordinaire","Lexi, Livewire",8,21,0,29,27.59%
+"Dash, Inventor Extraordinaire","Briar, Warden of Thorns",1,2,0,3,33.33%
+"Dash, Inventor Extraordinaire","Dromai, ﻿Ash Artist",6,6,0,12,50.00%
+"Dash, Inventor Extraordinaire","Fai, ﻿Rising Rebellion",2,4,0,6,33.33%
+"Dash, Inventor Extraordinaire","Uzuri, Switchblade",1,1,0,2,50.00%
+"Dash, Inventor Extraordinaire","Levia, Shadowborn Abomination",0,0,0,0,-
+"Dash, Inventor Extraordinaire","Kano, Dracai of Aether",2,1,0,3,66.67%
+"Dash, Inventor Extraordinaire","Azalea, Ace in the Hole",3,4,0,7,42.86%
+"Dash, Inventor Extraordinaire","Rhinar, Reckless Rampage",0,3,0,3,0.00%
+"Dash, Inventor Extraordinaire","Bravo, Star of the Show",0,1,0,1,0.00%
+"Dash, Inventor Extraordinaire","Ser Boltyn, Breaker of Dawn",1,0,0,1,100.00%
+"Dash, Inventor Extraordinaire","Bravo, Showstopper",7,1,0,8,87.50%
+"Dash, Inventor Extraordinaire","Oldhim, Grandfather of Eternity",19,7,0,26,73.08%
+"Dash, Inventor Extraordinaire","Katsu, the Wanderer",3,5,0,8,37.50%
+"Dash, Inventor Extraordinaire",CLEANTOTAL,57,-,-,116,49.14%
+"Dash, Inventor Extraordinaire",TOTAL,59,-,-,120,49.17%
+Dorinthea Ironsong,"Viserai, Rune Blood",0,1,0,1,0.00%
+Dorinthea Ironsong,"Iyslander, ﻿Stormbind",3,0,0,3,100.00%
+Dorinthea Ironsong,"Dash, Inventor Extraordinaire",1,1,0,2,50.00%
+Dorinthea Ironsong,Dorinthea Ironsong,1,1,0,2,50.00%
+Dorinthea Ironsong,"Lexi, Livewire",1,7,0,8,12.50%
+Dorinthea Ironsong,"Briar, Warden of Thorns",1,3,0,4,25.00%
+Dorinthea Ironsong,"Dromai, ﻿Ash Artist",1,1,0,2,50.00%
+Dorinthea Ironsong,"Fai, ﻿Rising Rebellion",0,0,0,0,-
+Dorinthea Ironsong,"Uzuri, Switchblade",0,0,0,0,-
+Dorinthea Ironsong,"Levia, Shadowborn Abomination",0,0,0,0,-
+Dorinthea Ironsong,"Kano, Dracai of Aether",0,0,0,0,-
+Dorinthea Ironsong,"Azalea, Ace in the Hole",0,0,0,0,-
+Dorinthea Ironsong,"Rhinar, Reckless Rampage",0,0,0,0,-
+Dorinthea Ironsong,"Bravo, Star of the Show",0,0,0,0,-
+Dorinthea Ironsong,"Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+Dorinthea Ironsong,"Bravo, Showstopper",1,2,0,3,33.33%
+Dorinthea Ironsong,"Oldhim, Grandfather of Eternity",3,7,1,11,27.27%
+Dorinthea Ironsong,"Katsu, the Wanderer",0,4,0,4,0.00%
+Dorinthea Ironsong,CLEANTOTAL,11,-,-,38,28.95%
+Dorinthea Ironsong,TOTAL,12,-,-,40,30.00%
+"Lexi, Livewire","Viserai, Rune Blood",4,2,0,6,66.67%
+"Lexi, Livewire","Iyslander, ﻿Stormbind",19,7,0,26,73.08%
+"Lexi, Livewire","Dash, Inventor Extraordinaire",21,8,0,29,72.41%
+"Lexi, Livewire",Dorinthea Ironsong,7,1,0,8,87.50%
+"Lexi, Livewire","Lexi, Livewire",71,71,0,142,50.00%
+"Lexi, Livewire","Briar, Warden of Thorns",17,8,0,25,68.00%
+"Lexi, Livewire","Dromai, ﻿Ash Artist",29,37,0,66,43.94%
+"Lexi, Livewire","Fai, ﻿Rising Rebellion",12,4,0,16,75.00%
+"Lexi, Livewire","Uzuri, Switchblade",4,4,0,8,50.00%
+"Lexi, Livewire","Levia, Shadowborn Abomination",0,2,0,2,0.00%
+"Lexi, Livewire","Kano, Dracai of Aether",8,4,0,12,66.67%
+"Lexi, Livewire","Azalea, Ace in the Hole",14,16,0,30,46.67%
+"Lexi, Livewire","Rhinar, Reckless Rampage",9,3,0,12,75.00%
+"Lexi, Livewire","Bravo, Star of the Show",1,0,0,1,100.00%
+"Lexi, Livewire","Ser Boltyn, Breaker of Dawn",1,0,0,1,100.00%
+"Lexi, Livewire","Bravo, Showstopper",21,13,0,34,61.76%
+"Lexi, Livewire","Oldhim, Grandfather of Eternity",59,48,2,109,54.13%
+"Lexi, Livewire","Katsu, the Wanderer",24,11,0,35,68.57%
+"Lexi, Livewire",CLEANTOTAL,250,-,-,420,59.52%
+"Lexi, Livewire",TOTAL,321,-,-,562,57.12%
+"Briar, Warden of Thorns","Viserai, Rune Blood",2,0,0,2,100.00%
+"Briar, Warden of Thorns","Iyslander, ﻿Stormbind",1,3,0,4,25.00%
+"Briar, Warden of Thorns","Dash, Inventor Extraordinaire",2,1,0,3,66.67%
+"Briar, Warden of Thorns",Dorinthea Ironsong,3,1,0,4,75.00%
+"Briar, Warden of Thorns","Lexi, Livewire",8,17,0,25,32.00%
+"Briar, Warden of Thorns","Briar, Warden of Thorns",2,2,0,4,50.00%
+"Briar, Warden of Thorns","Dromai, ﻿Ash Artist",6,8,0,14,42.86%
+"Briar, Warden of Thorns","Fai, ﻿Rising Rebellion",3,1,0,4,75.00%
+"Briar, Warden of Thorns","Uzuri, Switchblade",0,2,0,2,0.00%
+"Briar, Warden of Thorns","Levia, Shadowborn Abomination",0,0,0,0,-
+"Briar, Warden of Thorns","Kano, Dracai of Aether",2,0,0,2,100.00%
+"Briar, Warden of Thorns","Azalea, Ace in the Hole",0,3,0,3,0.00%
+"Briar, Warden of Thorns","Rhinar, Reckless Rampage",1,0,0,1,100.00%
+"Briar, Warden of Thorns","Bravo, Star of the Show",0,0,0,0,-
+"Briar, Warden of Thorns","Ser Boltyn, Breaker of Dawn",1,1,0,2,50.00%
+"Briar, Warden of Thorns","Bravo, Showstopper",2,1,0,3,66.67%
+"Briar, Warden of Thorns","Oldhim, Grandfather of Eternity",10,9,1,20,50.00%
+"Briar, Warden of Thorns","Katsu, the Wanderer",4,4,0,8,50.00%
+"Briar, Warden of Thorns",CLEANTOTAL,45,-,-,97,46.39%
+"Briar, Warden of Thorns",TOTAL,47,-,-,101,46.53%
+"Dromai, ﻿Ash Artist","Viserai, Rune Blood",4,2,0,6,66.67%
+"Dromai, ﻿Ash Artist","Iyslander, ﻿Stormbind",8,0,0,8,100.00%
+"Dromai, ﻿Ash Artist","Dash, Inventor Extraordinaire",6,6,0,12,50.00%
+"Dromai, ﻿Ash Artist",Dorinthea Ironsong,1,1,0,2,50.00%
+"Dromai, ﻿Ash Artist","Lexi, Livewire",37,29,0,66,56.06%
+"Dromai, ﻿Ash Artist","Briar, Warden of Thorns",8,6,0,14,57.14%
+"Dromai, ﻿Ash Artist","Dromai, ﻿Ash Artist",11,11,2,24,45.83%
+"Dromai, ﻿Ash Artist","Fai, ﻿Rising Rebellion",3,6,0,9,33.33%
+"Dromai, ﻿Ash Artist","Uzuri, Switchblade",4,1,1,6,66.67%
+"Dromai, ﻿Ash Artist","Levia, Shadowborn Abomination",0,0,0,0,-
+"Dromai, ﻿Ash Artist","Kano, Dracai of Aether",3,4,0,7,42.86%
+"Dromai, ﻿Ash Artist","Azalea, Ace in the Hole",15,4,0,19,78.95%
+"Dromai, ﻿Ash Artist","Rhinar, Reckless Rampage",1,3,0,4,25.00%
+"Dromai, ﻿Ash Artist","Bravo, Star of the Show",0,0,0,0,-
+"Dromai, ﻿Ash Artist","Ser Boltyn, Breaker of Dawn",1,0,0,1,100.00%
+"Dromai, ﻿Ash Artist","Bravo, Showstopper",3,8,1,12,25.00%
+"Dromai, ﻿Ash Artist","Oldhim, Grandfather of Eternity",19,31,1,51,37.25%
+"Dromai, ﻿Ash Artist","Katsu, the Wanderer",3,10,0,13,23.08%
+"Dromai, ﻿Ash Artist",CLEANTOTAL,116,-,-,230,50.43%
+"Dromai, ﻿Ash Artist",TOTAL,127,-,-,254,50.00%
+"Fai, ﻿Rising Rebellion","Viserai, Rune Blood",2,0,0,2,100.00%
+"Fai, ﻿Rising Rebellion","Iyslander, ﻿Stormbind",2,0,0,2,100.00%
+"Fai, ﻿Rising Rebellion","Dash, Inventor Extraordinaire",4,2,0,6,66.67%
+"Fai, ﻿Rising Rebellion",Dorinthea Ironsong,0,0,0,0,-
+"Fai, ﻿Rising Rebellion","Lexi, Livewire",4,12,0,16,25.00%
+"Fai, ﻿Rising Rebellion","Briar, Warden of Thorns",1,3,0,4,25.00%
+"Fai, ﻿Rising Rebellion","Dromai, ﻿Ash Artist",6,3,0,9,66.67%
+"Fai, ﻿Rising Rebellion","Fai, ﻿Rising Rebellion",0,0,0,0,-
+"Fai, ﻿Rising Rebellion","Uzuri, Switchblade",0,0,0,0,-
+"Fai, ﻿Rising Rebellion","Levia, Shadowborn Abomination",0,0,0,0,-
+"Fai, ﻿Rising Rebellion","Kano, Dracai of Aether",0,0,0,0,-
+"Fai, ﻿Rising Rebellion","Azalea, Ace in the Hole",0,0,0,0,-
+"Fai, ﻿Rising Rebellion","Rhinar, Reckless Rampage",2,1,0,3,66.67%
+"Fai, ﻿Rising Rebellion","Bravo, Star of the Show",0,0,0,0,-
+"Fai, ﻿Rising Rebellion","Ser Boltyn, Breaker of Dawn",1,0,0,1,100.00%
+"Fai, ﻿Rising Rebellion","Bravo, Showstopper",5,4,0,9,55.56%
+"Fai, ﻿Rising Rebellion","Oldhim, Grandfather of Eternity",9,5,0,14,64.29%
+"Fai, ﻿Rising Rebellion","Katsu, the Wanderer",1,0,0,1,100.00%
+"Fai, ﻿Rising Rebellion",CLEANTOTAL,37,-,-,67,55.22%
+"Fai, ﻿Rising Rebellion",TOTAL,37,-,-,67,55.22%
+"Uzuri, Switchblade","Viserai, Rune Blood",0,0,0,0,-
+"Uzuri, Switchblade","Iyslander, ﻿Stormbind",1,0,0,1,100.00%
+"Uzuri, Switchblade","Dash, Inventor Extraordinaire",1,1,0,2,50.00%
+"Uzuri, Switchblade",Dorinthea Ironsong,0,0,0,0,-
+"Uzuri, Switchblade","Lexi, Livewire",4,4,0,8,50.00%
+"Uzuri, Switchblade","Briar, Warden of Thorns",2,0,0,2,100.00%
+"Uzuri, Switchblade","Dromai, ﻿Ash Artist",1,4,1,6,16.67%
+"Uzuri, Switchblade","Fai, ﻿Rising Rebellion",0,0,0,0,-
+"Uzuri, Switchblade","Uzuri, Switchblade",0,0,0,0,-
+"Uzuri, Switchblade","Levia, Shadowborn Abomination",0,0,0,0,-
+"Uzuri, Switchblade","Kano, Dracai of Aether",0,0,0,0,-
+"Uzuri, Switchblade","Azalea, Ace in the Hole",0,0,0,0,-
+"Uzuri, Switchblade","Rhinar, Reckless Rampage",0,0,0,0,-
+"Uzuri, Switchblade","Bravo, Star of the Show",0,0,0,0,-
+"Uzuri, Switchblade","Ser Boltyn, Breaker of Dawn",0,1,0,1,0.00%
+"Uzuri, Switchblade","Bravo, Showstopper",1,2,0,3,33.33%
+"Uzuri, Switchblade","Oldhim, Grandfather of Eternity",1,2,0,3,33.33%
+"Uzuri, Switchblade","Katsu, the Wanderer",1,0,0,1,100.00%
+"Uzuri, Switchblade",CLEANTOTAL,12,-,-,27,44.44%
+"Uzuri, Switchblade",TOTAL,12,-,-,27,44.44%
+"Levia, Shadowborn Abomination","Viserai, Rune Blood",0,0,0,0,-
+"Levia, Shadowborn Abomination","Iyslander, ﻿Stormbind",0,0,0,0,-
+"Levia, Shadowborn Abomination","Dash, Inventor Extraordinaire",0,0,0,0,-
+"Levia, Shadowborn Abomination",Dorinthea Ironsong,0,0,0,0,-
+"Levia, Shadowborn Abomination","Lexi, Livewire",2,0,0,2,100.00%
+"Levia, Shadowborn Abomination","Briar, Warden of Thorns",0,0,0,0,-
+"Levia, Shadowborn Abomination","Dromai, ﻿Ash Artist",0,0,0,0,-
+"Levia, Shadowborn Abomination","Fai, ﻿Rising Rebellion",0,0,0,0,-
+"Levia, Shadowborn Abomination","Uzuri, Switchblade",0,0,0,0,-
+"Levia, Shadowborn Abomination","Levia, Shadowborn Abomination",0,0,0,0,-
+"Levia, Shadowborn Abomination","Kano, Dracai of Aether",0,0,0,0,-
+"Levia, Shadowborn Abomination","Azalea, Ace in the Hole",0,0,0,0,-
+"Levia, Shadowborn Abomination","Rhinar, Reckless Rampage",0,0,0,0,-
+"Levia, Shadowborn Abomination","Bravo, Star of the Show",0,0,0,0,-
+"Levia, Shadowborn Abomination","Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+"Levia, Shadowborn Abomination","Bravo, Showstopper",1,0,0,1,100.00%
+"Levia, Shadowborn Abomination","Oldhim, Grandfather of Eternity",0,0,0,0,-
+"Levia, Shadowborn Abomination","Katsu, the Wanderer",0,0,0,0,-
+"Levia, Shadowborn Abomination",CLEANTOTAL,3,-,-,3,100.00%
+"Levia, Shadowborn Abomination",TOTAL,3,-,-,3,100.00%
+"Kano, Dracai of Aether","Viserai, Rune Blood",0,0,0,0,-
+"Kano, Dracai of Aether","Iyslander, ﻿Stormbind",0,1,0,1,0.00%
+"Kano, Dracai of Aether","Dash, Inventor Extraordinaire",1,2,0,3,33.33%
+"Kano, Dracai of Aether",Dorinthea Ironsong,0,0,0,0,-
+"Kano, Dracai of Aether","Lexi, Livewire",4,8,0,12,33.33%
+"Kano, Dracai of Aether","Briar, Warden of Thorns",0,2,0,2,0.00%
+"Kano, Dracai of Aether","Dromai, ﻿Ash Artist",4,3,0,7,57.14%
+"Kano, Dracai of Aether","Fai, ﻿Rising Rebellion",0,0,0,0,-
+"Kano, Dracai of Aether","Uzuri, Switchblade",0,0,0,0,-
+"Kano, Dracai of Aether","Levia, Shadowborn Abomination",0,0,0,0,-
+"Kano, Dracai of Aether","Kano, Dracai of Aether",2,2,0,4,50.00%
+"Kano, Dracai of Aether","Azalea, Ace in the Hole",1,2,0,3,33.33%
+"Kano, Dracai of Aether","Rhinar, Reckless Rampage",1,0,0,1,100.00%
+"Kano, Dracai of Aether","Bravo, Star of the Show",0,0,0,0,-
+"Kano, Dracai of Aether","Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+"Kano, Dracai of Aether","Bravo, Showstopper",4,1,0,5,80.00%
+"Kano, Dracai of Aether","Oldhim, Grandfather of Eternity",6,8,0,14,42.86%
+"Kano, Dracai of Aether","Katsu, the Wanderer",2,1,0,3,66.67%
+"Kano, Dracai of Aether",CLEANTOTAL,23,-,-,51,45.10%
+"Kano, Dracai of Aether",TOTAL,25,-,-,55,45.45%
+"Azalea, Ace in the Hole","Viserai, Rune Blood",0,1,0,1,0.00%
+"Azalea, Ace in the Hole","Iyslander, ﻿Stormbind",0,2,0,2,0.00%
+"Azalea, Ace in the Hole","Dash, Inventor Extraordinaire",4,3,0,7,57.14%
+"Azalea, Ace in the Hole",Dorinthea Ironsong,0,0,0,0,-
+"Azalea, Ace in the Hole","Lexi, Livewire",16,14,0,30,53.33%
+"Azalea, Ace in the Hole","Briar, Warden of Thorns",3,0,0,3,100.00%
+"Azalea, Ace in the Hole","Dromai, ﻿Ash Artist",4,15,0,19,21.05%
+"Azalea, Ace in the Hole","Fai, ﻿Rising Rebellion",0,0,0,0,-
+"Azalea, Ace in the Hole","Uzuri, Switchblade",0,0,0,0,-
+"Azalea, Ace in the Hole","Levia, Shadowborn Abomination",0,0,0,0,-
+"Azalea, Ace in the Hole","Kano, Dracai of Aether",2,1,0,3,66.67%
+"Azalea, Ace in the Hole","Azalea, Ace in the Hole",2,2,0,4,50.00%
+"Azalea, Ace in the Hole","Rhinar, Reckless Rampage",2,1,0,3,66.67%
+"Azalea, Ace in the Hole","Bravo, Star of the Show",0,0,0,0,-
+"Azalea, Ace in the Hole","Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+"Azalea, Ace in the Hole","Bravo, Showstopper",1,5,0,6,16.67%
+"Azalea, Ace in the Hole","Oldhim, Grandfather of Eternity",7,11,1,19,36.84%
+"Azalea, Ace in the Hole","Katsu, the Wanderer",4,2,0,6,66.67%
+"Azalea, Ace in the Hole",CLEANTOTAL,43,-,-,99,43.43%
+"Azalea, Ace in the Hole",TOTAL,45,-,-,103,43.69%
+"Rhinar, Reckless Rampage","Viserai, Rune Blood",0,1,0,1,0.00%
+"Rhinar, Reckless Rampage","Iyslander, ﻿Stormbind",5,1,0,6,83.33%
+"Rhinar, Reckless Rampage","Dash, Inventor Extraordinaire",3,0,0,3,100.00%
+"Rhinar, Reckless Rampage",Dorinthea Ironsong,0,0,0,0,-
+"Rhinar, Reckless Rampage","Lexi, Livewire",3,9,0,12,25.00%
+"Rhinar, Reckless Rampage","Briar, Warden of Thorns",0,1,0,1,0.00%
+"Rhinar, Reckless Rampage","Dromai, ﻿Ash Artist",3,1,0,4,75.00%
+"Rhinar, Reckless Rampage","Fai, ﻿Rising Rebellion",1,2,0,3,33.33%
+"Rhinar, Reckless Rampage","Uzuri, Switchblade",0,0,0,0,-
+"Rhinar, Reckless Rampage","Levia, Shadowborn Abomination",0,0,0,0,-
+"Rhinar, Reckless Rampage","Kano, Dracai of Aether",0,1,0,1,0.00%
+"Rhinar, Reckless Rampage","Azalea, Ace in the Hole",1,2,0,3,33.33%
+"Rhinar, Reckless Rampage","Rhinar, Reckless Rampage",0,0,0,0,-
+"Rhinar, Reckless Rampage","Bravo, Star of the Show",0,0,0,0,-
+"Rhinar, Reckless Rampage","Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+"Rhinar, Reckless Rampage","Bravo, Showstopper",2,2,0,4,50.00%
+"Rhinar, Reckless Rampage","Oldhim, Grandfather of Eternity",5,7,0,12,41.67%
+"Rhinar, Reckless Rampage","Katsu, the Wanderer",1,2,0,3,33.33%
+"Rhinar, Reckless Rampage",CLEANTOTAL,24,-,-,53,45.28%
+"Rhinar, Reckless Rampage",TOTAL,24,-,-,53,45.28%
+"Bravo, Star of the Show","Viserai, Rune Blood",0,0,0,0,-
+"Bravo, Star of the Show","Iyslander, ﻿Stormbind",0,0,0,0,-
+"Bravo, Star of the Show","Dash, Inventor Extraordinaire",1,0,0,1,100.00%
+"Bravo, Star of the Show",Dorinthea Ironsong,0,0,0,0,-
+"Bravo, Star of the Show","Lexi, Livewire",0,1,0,1,0.00%
+"Bravo, Star of the Show","Briar, Warden of Thorns",0,0,0,0,-
+"Bravo, Star of the Show","Dromai, ﻿Ash Artist",0,0,0,0,-
+"Bravo, Star of the Show","Fai, ﻿Rising Rebellion",0,0,0,0,-
+"Bravo, Star of the Show","Uzuri, Switchblade",0,0,0,0,-
+"Bravo, Star of the Show","Levia, Shadowborn Abomination",0,0,0,0,-
+"Bravo, Star of the Show","Kano, Dracai of Aether",0,0,0,0,-
+"Bravo, Star of the Show","Azalea, Ace in the Hole",0,0,0,0,-
+"Bravo, Star of the Show","Rhinar, Reckless Rampage",0,0,0,0,-
+"Bravo, Star of the Show","Bravo, Star of the Show",0,0,0,0,-
+"Bravo, Star of the Show","Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+"Bravo, Star of the Show","Bravo, Showstopper",1,1,0,2,50.00%
+"Bravo, Star of the Show","Oldhim, Grandfather of Eternity",0,0,0,0,-
+"Bravo, Star of the Show","Katsu, the Wanderer",0,0,0,0,-
+"Bravo, Star of the Show",CLEANTOTAL,2,-,-,4,50.00%
+"Bravo, Star of the Show",TOTAL,2,-,-,4,50.00%
+"Ser Boltyn, Breaker of Dawn","Viserai, Rune Blood",0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn","Iyslander, ﻿Stormbind",0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn","Dash, Inventor Extraordinaire",0,1,0,1,0.00%
+"Ser Boltyn, Breaker of Dawn",Dorinthea Ironsong,0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn","Lexi, Livewire",0,1,0,1,0.00%
+"Ser Boltyn, Breaker of Dawn","Briar, Warden of Thorns",1,1,0,2,50.00%
+"Ser Boltyn, Breaker of Dawn","Dromai, ﻿Ash Artist",0,1,0,1,0.00%
+"Ser Boltyn, Breaker of Dawn","Fai, ﻿Rising Rebellion",0,1,0,1,0.00%
+"Ser Boltyn, Breaker of Dawn","Uzuri, Switchblade",1,0,0,1,100.00%
+"Ser Boltyn, Breaker of Dawn","Levia, Shadowborn Abomination",0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn","Kano, Dracai of Aether",0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn","Azalea, Ace in the Hole",0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn","Rhinar, Reckless Rampage",0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn","Bravo, Star of the Show",0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn","Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn","Bravo, Showstopper",0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn","Oldhim, Grandfather of Eternity",0,1,0,1,0.00%
+"Ser Boltyn, Breaker of Dawn","Katsu, the Wanderer",0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn",CLEANTOTAL,2,-,-,8,25.00%
+"Ser Boltyn, Breaker of Dawn",TOTAL,2,-,-,8,25.00%
+"Bravo, Showstopper","Viserai, Rune Blood",3,2,0,5,60.00%
+"Bravo, Showstopper","Iyslander, ﻿Stormbind",1,1,0,2,50.00%
+"Bravo, Showstopper","Dash, Inventor Extraordinaire",1,7,0,8,12.50%
+"Bravo, Showstopper",Dorinthea Ironsong,2,1,0,3,66.67%
+"Bravo, Showstopper","Lexi, Livewire",13,21,0,34,38.24%
+"Bravo, Showstopper","Briar, Warden of Thorns",1,2,0,3,33.33%
+"Bravo, Showstopper","Dromai, ﻿Ash Artist",8,3,1,12,66.67%
+"Bravo, Showstopper","Fai, ﻿Rising Rebellion",4,5,0,9,44.44%
+"Bravo, Showstopper","Uzuri, Switchblade",2,1,0,3,66.67%
+"Bravo, Showstopper","Levia, Shadowborn Abomination",0,1,0,1,0.00%
+"Bravo, Showstopper","Kano, Dracai of Aether",1,4,0,5,20.00%
+"Bravo, Showstopper","Azalea, Ace in the Hole",5,1,0,6,83.33%
+"Bravo, Showstopper","Rhinar, Reckless Rampage",2,2,0,4,50.00%
+"Bravo, Showstopper","Bravo, Star of the Show",1,1,0,2,50.00%
+"Bravo, Showstopper","Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+"Bravo, Showstopper","Bravo, Showstopper",6,6,0,12,50.00%
+"Bravo, Showstopper","Oldhim, Grandfather of Eternity",10,7,0,17,58.82%
+"Bravo, Showstopper","Katsu, the Wanderer",4,7,0,11,36.36%
+"Bravo, Showstopper",CLEANTOTAL,58,-,-,125,46.40%
+"Bravo, Showstopper",TOTAL,64,-,-,137,46.72%
+"Oldhim, Grandfather of Eternity","Viserai, Rune Blood",5,7,0,12,41.67%
+"Oldhim, Grandfather of Eternity","Iyslander, ﻿Stormbind",4,12,0,16,25.00%
+"Oldhim, Grandfather of Eternity","Dash, Inventor Extraordinaire",7,19,0,26,26.92%
+"Oldhim, Grandfather of Eternity",Dorinthea Ironsong,7,3,1,11,63.64%
+"Oldhim, Grandfather of Eternity","Lexi, Livewire",48,59,2,109,44.04%
+"Oldhim, Grandfather of Eternity","Briar, Warden of Thorns",9,10,1,20,45.00%
+"Oldhim, Grandfather of Eternity","Dromai, ﻿Ash Artist",31,19,1,51,60.78%
+"Oldhim, Grandfather of Eternity","Fai, ﻿Rising Rebellion",5,9,0,14,35.71%
+"Oldhim, Grandfather of Eternity","Uzuri, Switchblade",2,1,0,3,66.67%
+"Oldhim, Grandfather of Eternity","Levia, Shadowborn Abomination",0,0,0,0,-
+"Oldhim, Grandfather of Eternity","Kano, Dracai of Aether",8,6,0,14,57.14%
+"Oldhim, Grandfather of Eternity","Azalea, Ace in the Hole",11,7,1,19,57.89%
+"Oldhim, Grandfather of Eternity","Rhinar, Reckless Rampage",7,5,0,12,58.33%
+"Oldhim, Grandfather of Eternity","Bravo, Star of the Show",0,0,0,0,-
+"Oldhim, Grandfather of Eternity","Ser Boltyn, Breaker of Dawn",1,0,0,1,100.00%
+"Oldhim, Grandfather of Eternity","Bravo, Showstopper",7,10,0,17,41.18%
+"Oldhim, Grandfather of Eternity","Oldhim, Grandfather of Eternity",29,29,2,60,48.33%
+"Oldhim, Grandfather of Eternity","Katsu, the Wanderer",12,8,0,20,60.00%
+"Oldhim, Grandfather of Eternity",CLEANTOTAL,164,-,-,345,47.54%
+"Oldhim, Grandfather of Eternity",TOTAL,193,-,-,405,47.65%
+"Katsu, the Wanderer","Viserai, Rune Blood",0,1,0,1,0.00%
+"Katsu, the Wanderer","Iyslander, ﻿Stormbind",3,4,0,7,42.86%
+"Katsu, the Wanderer","Dash, Inventor Extraordinaire",5,3,0,8,62.50%
+"Katsu, the Wanderer",Dorinthea Ironsong,4,0,0,4,100.00%
+"Katsu, the Wanderer","Lexi, Livewire",11,24,0,35,31.43%
+"Katsu, the Wanderer","Briar, Warden of Thorns",4,4,0,8,50.00%
+"Katsu, the Wanderer","Dromai, ﻿Ash Artist",10,3,0,13,76.92%
+"Katsu, the Wanderer","Fai, ﻿Rising Rebellion",0,1,0,1,0.00%
+"Katsu, the Wanderer","Uzuri, Switchblade",0,1,0,1,0.00%
+"Katsu, the Wanderer","Levia, Shadowborn Abomination",0,0,0,0,-
+"Katsu, the Wanderer","Kano, Dracai of Aether",1,2,0,3,33.33%
+"Katsu, the Wanderer","Azalea, Ace in the Hole",2,4,0,6,33.33%
+"Katsu, the Wanderer","Rhinar, Reckless Rampage",2,1,0,3,66.67%
+"Katsu, the Wanderer","Bravo, Star of the Show",0,0,0,0,-
+"Katsu, the Wanderer","Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+"Katsu, the Wanderer","Bravo, Showstopper",7,4,0,11,63.64%
+"Katsu, the Wanderer","Oldhim, Grandfather of Eternity",8,12,0,20,40.00%
+"Katsu, the Wanderer","Katsu, the Wanderer",1,1,0,2,50.00%
+"Katsu, the Wanderer",CLEANTOTAL,57,-,-,121,47.11%
+"Katsu, the Wanderer",TOTAL,58,-,-,123,47.15%

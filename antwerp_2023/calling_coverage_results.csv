@@ -1,0 +1,441 @@
+Hero1, Hero2, Win, Loss, Draw, Games, Win%
+,,0,0,0,0,-
+,"Dromai, Ash Artist",0,0,0,0,-
+,"Azalea, Ace in the Hole",0,0,0,0,-
+,"Rhinar, Reckless Rampage",0,0,0,0,-
+,"Fai, Rising Rebellion",0,0,0,0,-
+,"Bravo, Showstopper",0,0,0,0,-
+,"Arakni, Huntsman",0,0,0,0,-
+,"Kano, Dracai of Aether",0,0,0,0,-
+,Dorinthea Ironsong,0,0,0,0,-
+,"Levia, Shadowborn Abomination",0,0,0,0,-
+,"Briar, Warden of Thorns",0,1,0,1, 0.00% 
+,"Uzuri, Switchblade",0,0,0,0,-
+,"Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+,"Lexi, Livewire",0,0,0,0,-
+,"Riptide, Lurker of the Deep",0,0,0,0,-
+,"Iyslander, Stormbind",0,0,0,0,-
+,"Dash, Inventor Extraordinaire",0,0,0,0,-
+,"Viserai, Rune Blood",0,0,0,0,-
+,"Katsu, the Wanderer",0,0,0,0,-
+,"Oldhim, Grandfather of Eternity",0,0,0,0,-
+,CLEANTOTAL,0,-,-,1,0.00%
+,TOTAL,0,-,-,1,0.00%
+"Dromai, Ash Artist",,0,0,0,0,-
+"Dromai, Ash Artist","Dromai, Ash Artist",45,45,10,100,45.00% 
+"Dromai, Ash Artist","Azalea, Ace in the Hole",32,18,0,50,64.00% 
+"Dromai, Ash Artist","Rhinar, Reckless Rampage",1,12,0,13, 7.69% 
+"Dromai, Ash Artist","Fai, Rising Rebellion",14,11,0,25,56.00% 
+"Dromai, Ash Artist","Bravo, Showstopper",8,18,2,28,28.57% 
+"Dromai, Ash Artist","Arakni, Huntsman",2,1,0,3,66.67% 
+"Dromai, Ash Artist","Kano, Dracai of Aether",13,4,0,17,76.47% 
+"Dromai, Ash Artist",Dorinthea Ironsong,5,1,0,6,83.33% 
+"Dromai, Ash Artist","Levia, Shadowborn Abomination",0,2,0,2, 0.00% 
+"Dromai, Ash Artist","Briar, Warden of Thorns",19,14,0,33,57.58% 
+"Dromai, Ash Artist","Uzuri, Switchblade",24,5,3,32,75.00% 
+"Dromai, Ash Artist","Ser Boltyn, Breaker of Dawn",4,2,0,6,66.67% 
+"Dromai, Ash Artist","Lexi, Livewire",70,75,0,145,48.28% 
+"Dromai, Ash Artist","Riptide, Lurker of the Deep",2,0,0,2,100.00%
+"Dromai, Ash Artist","Iyslander, Stormbind",5,7,2,14,35.71% 
+"Dromai, Ash Artist","Dash, Inventor Extraordinaire",16,9,2,27,59.26% 
+"Dromai, Ash Artist","Viserai, Rune Blood",12,27,0,39,30.77% 
+"Dromai, Ash Artist","Katsu, the Wanderer",14,17,0,31,45.16% 
+"Dromai, Ash Artist","Oldhim, Grandfather of Eternity",16,48,5,69,23.19% 
+"Dromai, Ash Artist",CLEANTOTAL,257,-,-,542,47.42%
+"Dromai, Ash Artist",TOTAL,302,-,-,642,47.04%
+"Azalea, Ace in the Hole",,0,0,0,0,-
+"Azalea, Ace in the Hole","Dromai, Ash Artist",18,32,0,50,36.00% 
+"Azalea, Ace in the Hole","Azalea, Ace in the Hole",8,8,0,16,50.00% 
+"Azalea, Ace in the Hole","Rhinar, Reckless Rampage",4,2,0,6,66.67% 
+"Azalea, Ace in the Hole","Fai, Rising Rebellion",3,6,0,9,33.33% 
+"Azalea, Ace in the Hole","Bravo, Showstopper",4,10,1,15,26.67% 
+"Azalea, Ace in the Hole","Arakni, Huntsman",0,2,0,2, 0.00% 
+"Azalea, Ace in the Hole","Kano, Dracai of Aether",3,3,0,6,50.00% 
+"Azalea, Ace in the Hole",Dorinthea Ironsong,7,2,0,9,77.78% 
+"Azalea, Ace in the Hole","Levia, Shadowborn Abomination",0,0,0,0,-
+"Azalea, Ace in the Hole","Briar, Warden of Thorns",7,10,0,17,41.18% 
+"Azalea, Ace in the Hole","Uzuri, Switchblade",4,8,0,12,33.33% 
+"Azalea, Ace in the Hole","Ser Boltyn, Breaker of Dawn",3,2,0,5,60.00% 
+"Azalea, Ace in the Hole","Lexi, Livewire",45,30,0,75,60.00% 
+"Azalea, Ace in the Hole","Riptide, Lurker of the Deep",1,0,0,1,100.00%
+"Azalea, Ace in the Hole","Iyslander, Stormbind",2,0,0,2,100.00%
+"Azalea, Ace in the Hole","Dash, Inventor Extraordinaire",8,3,0,11,72.73% 
+"Azalea, Ace in the Hole","Viserai, Rune Blood",10,3,0,13,76.92% 
+"Azalea, Ace in the Hole","Katsu, the Wanderer",9,7,0,16,56.25% 
+"Azalea, Ace in the Hole","Oldhim, Grandfather of Eternity",14,21,1,36,38.89% 
+"Azalea, Ace in the Hole",CLEANTOTAL,142,-,-,285,49.82%
+"Azalea, Ace in the Hole",TOTAL,150,-,-,301,49.83%
+"Rhinar, Reckless Rampage",,0,0,0,0,-
+"Rhinar, Reckless Rampage","Dromai, Ash Artist",12,1,0,13,92.31% 
+"Rhinar, Reckless Rampage","Azalea, Ace in the Hole",2,4,0,6,33.33% 
+"Rhinar, Reckless Rampage","Rhinar, Reckless Rampage",0,0,0,0,-
+"Rhinar, Reckless Rampage","Fai, Rising Rebellion",1,1,0,2,50.00% 
+"Rhinar, Reckless Rampage","Bravo, Showstopper",1,0,0,1,100.00%
+"Rhinar, Reckless Rampage","Arakni, Huntsman",0,0,0,0,-
+"Rhinar, Reckless Rampage","Kano, Dracai of Aether",1,2,0,3,33.33% 
+"Rhinar, Reckless Rampage",Dorinthea Ironsong,0,1,0,1, 0.00% 
+"Rhinar, Reckless Rampage","Levia, Shadowborn Abomination",0,0,0,0,-
+"Rhinar, Reckless Rampage","Briar, Warden of Thorns",0,0,0,0,-
+"Rhinar, Reckless Rampage","Uzuri, Switchblade",4,3,0,7,57.14% 
+"Rhinar, Reckless Rampage","Ser Boltyn, Breaker of Dawn",0,1,0,1, 0.00% 
+"Rhinar, Reckless Rampage","Lexi, Livewire",1,9,0,10,10.00% 
+"Rhinar, Reckless Rampage","Riptide, Lurker of the Deep",1,0,0,1,100.00%
+"Rhinar, Reckless Rampage","Iyslander, Stormbind",0,0,0,0,-
+"Rhinar, Reckless Rampage","Dash, Inventor Extraordinaire",1,1,0,2,50.00% 
+"Rhinar, Reckless Rampage","Viserai, Rune Blood",0,2,0,2, 0.00% 
+"Rhinar, Reckless Rampage","Katsu, the Wanderer",1,3,0,4,25.00% 
+"Rhinar, Reckless Rampage","Oldhim, Grandfather of Eternity",3,3,0,6,50.00% 
+"Rhinar, Reckless Rampage",CLEANTOTAL,28,-,-,59,47.46%
+"Rhinar, Reckless Rampage",TOTAL,28,-,-,59,47.46%
+"Fai, Rising Rebellion",,0,0,0,0,-
+"Fai, Rising Rebellion","Dromai, Ash Artist",11,14,0,25,44.00% 
+"Fai, Rising Rebellion","Azalea, Ace in the Hole",6,3,0,9,66.67% 
+"Fai, Rising Rebellion","Rhinar, Reckless Rampage",1,1,0,2,50.00% 
+"Fai, Rising Rebellion","Fai, Rising Rebellion",3,3,0,6,50.00% 
+"Fai, Rising Rebellion","Bravo, Showstopper",4,6,0,10,40.00% 
+"Fai, Rising Rebellion","Arakni, Huntsman",0,0,0,0,-
+"Fai, Rising Rebellion","Kano, Dracai of Aether",1,3,0,4,25.00% 
+"Fai, Rising Rebellion",Dorinthea Ironsong,0,2,0,2, 0.00% 
+"Fai, Rising Rebellion","Levia, Shadowborn Abomination",0,0,0,0,-
+"Fai, Rising Rebellion","Briar, Warden of Thorns",1,9,0,10,10.00% 
+"Fai, Rising Rebellion","Uzuri, Switchblade",5,5,0,10,50.00% 
+"Fai, Rising Rebellion","Ser Boltyn, Breaker of Dawn",1,0,0,1,100.00%
+"Fai, Rising Rebellion","Lexi, Livewire",5,18,0,23,21.74% 
+"Fai, Rising Rebellion","Riptide, Lurker of the Deep",0,1,0,1, 0.00% 
+"Fai, Rising Rebellion","Iyslander, Stormbind",0,4,0,4, 0.00% 
+"Fai, Rising Rebellion","Dash, Inventor Extraordinaire",5,5,0,10,50.00% 
+"Fai, Rising Rebellion","Viserai, Rune Blood",4,5,0,9,44.44% 
+"Fai, Rising Rebellion","Katsu, the Wanderer",8,4,0,12,66.67% 
+"Fai, Rising Rebellion","Oldhim, Grandfather of Eternity",11,6,0,17,64.71% 
+"Fai, Rising Rebellion",CLEANTOTAL,63,-,-,149,42.28%
+"Fai, Rising Rebellion",TOTAL,66,-,-,155,42.58%
+"Bravo, Showstopper",,0,0,0,0,-
+"Bravo, Showstopper","Dromai, Ash Artist",17,9,2,28,60.71% 
+"Bravo, Showstopper","Azalea, Ace in the Hole",10,4,1,15,66.67% 
+"Bravo, Showstopper","Rhinar, Reckless Rampage",0,1,0,1, 0.00% 
+"Bravo, Showstopper","Fai, Rising Rebellion",6,4,0,10,60.00% 
+"Bravo, Showstopper","Bravo, Showstopper",6,6,0,12,50.00% 
+"Bravo, Showstopper","Arakni, Huntsman",1,0,0,1,100.00%
+"Bravo, Showstopper","Kano, Dracai of Aether",2,4,0,6,33.33% 
+"Bravo, Showstopper",Dorinthea Ironsong,2,3,0,5,40.00% 
+"Bravo, Showstopper","Levia, Shadowborn Abomination",0,0,0,0,-
+"Bravo, Showstopper","Briar, Warden of Thorns",6,10,0,16,37.50% 
+"Bravo, Showstopper","Uzuri, Switchblade",5,4,0,9,55.56% 
+"Bravo, Showstopper","Ser Boltyn, Breaker of Dawn",1,1,0,2,50.00% 
+"Bravo, Showstopper","Lexi, Livewire",27,29,0,56,48.21% 
+"Bravo, Showstopper","Riptide, Lurker of the Deep",1,1,0,2,50.00% 
+"Bravo, Showstopper","Iyslander, Stormbind",3,4,0,7,42.86% 
+"Bravo, Showstopper","Dash, Inventor Extraordinaire",8,9,0,17,47.06% 
+"Bravo, Showstopper","Viserai, Rune Blood",7,9,0,16,43.75% 
+"Bravo, Showstopper","Katsu, the Wanderer",9,9,0,18,50.00% 
+"Bravo, Showstopper","Oldhim, Grandfather of Eternity",11,21,0,32,34.38% 
+"Bravo, Showstopper",CLEANTOTAL,116,-,-,241,48.13%
+"Bravo, Showstopper",TOTAL,122,-,-,253,48.22%
+"Arakni, Huntsman",,0,0,0,0,-
+"Arakni, Huntsman","Dromai, Ash Artist",1,2,0,3,33.33% 
+"Arakni, Huntsman","Azalea, Ace in the Hole",2,0,0,2,100.00%
+"Arakni, Huntsman","Rhinar, Reckless Rampage",0,0,0,0,-
+"Arakni, Huntsman","Fai, Rising Rebellion",0,0,0,0,-
+"Arakni, Huntsman","Bravo, Showstopper",0,1,0,1, 0.00% 
+"Arakni, Huntsman","Arakni, Huntsman",0,0,0,0,-
+"Arakni, Huntsman","Kano, Dracai of Aether",1,0,0,1,100.00%
+"Arakni, Huntsman",Dorinthea Ironsong,0,0,0,0,-
+"Arakni, Huntsman","Levia, Shadowborn Abomination",0,0,0,0,-
+"Arakni, Huntsman","Briar, Warden of Thorns",0,1,0,1, 0.00% 
+"Arakni, Huntsman","Uzuri, Switchblade",1,0,0,1,100.00%
+"Arakni, Huntsman","Ser Boltyn, Breaker of Dawn",0,1,0,1, 0.00% 
+"Arakni, Huntsman","Lexi, Livewire",2,0,0,2,100.00%
+"Arakni, Huntsman","Riptide, Lurker of the Deep",0,0,0,0,-
+"Arakni, Huntsman","Iyslander, Stormbind",0,0,0,0,-
+"Arakni, Huntsman","Dash, Inventor Extraordinaire",1,1,0,2,50.00% 
+"Arakni, Huntsman","Viserai, Rune Blood",1,0,0,1,100.00%
+"Arakni, Huntsman","Katsu, the Wanderer",1,1,0,2,50.00% 
+"Arakni, Huntsman","Oldhim, Grandfather of Eternity",0,4,0,4, 0.00% 
+"Arakni, Huntsman",CLEANTOTAL,10,-,-,21,47.62%
+"Arakni, Huntsman",TOTAL,10,-,-,21,47.62%
+"Kano, Dracai of Aether",,0,0,0,0,-
+"Kano, Dracai of Aether","Dromai, Ash Artist",4,13,0,17,23.53% 
+"Kano, Dracai of Aether","Azalea, Ace in the Hole",3,3,0,6,50.00% 
+"Kano, Dracai of Aether","Rhinar, Reckless Rampage",2,1,0,3,66.67% 
+"Kano, Dracai of Aether","Fai, Rising Rebellion",3,1,0,4,75.00% 
+"Kano, Dracai of Aether","Bravo, Showstopper",4,2,0,6,66.67% 
+"Kano, Dracai of Aether","Arakni, Huntsman",0,1,0,1, 0.00% 
+"Kano, Dracai of Aether","Kano, Dracai of Aether",0,0,0,0,-
+"Kano, Dracai of Aether",Dorinthea Ironsong,3,1,0,4,75.00% 
+"Kano, Dracai of Aether","Levia, Shadowborn Abomination",1,0,0,1,100.00%
+"Kano, Dracai of Aether","Briar, Warden of Thorns",1,1,0,2,50.00% 
+"Kano, Dracai of Aether","Uzuri, Switchblade",7,1,0,8,87.50% 
+"Kano, Dracai of Aether","Ser Boltyn, Breaker of Dawn",1,1,0,2,50.00% 
+"Kano, Dracai of Aether","Lexi, Livewire",5,11,0,16,31.25% 
+"Kano, Dracai of Aether","Riptide, Lurker of the Deep",0,0,0,0,-
+"Kano, Dracai of Aether","Iyslander, Stormbind",0,1,0,1, 0.00% 
+"Kano, Dracai of Aether","Dash, Inventor Extraordinaire",2,3,0,5,40.00% 
+"Kano, Dracai of Aether","Viserai, Rune Blood",2,0,0,2,100.00%
+"Kano, Dracai of Aether","Katsu, the Wanderer",3,7,0,10,30.00% 
+"Kano, Dracai of Aether","Oldhim, Grandfather of Eternity",7,5,0,12,58.33% 
+"Kano, Dracai of Aether",CLEANTOTAL,48,-,-,100,48.00%
+"Kano, Dracai of Aether",TOTAL,48,-,-,100,48.00%
+Dorinthea Ironsong,,0,0,0,0,-
+Dorinthea Ironsong,"Dromai, Ash Artist",1,5,0,6,16.67% 
+Dorinthea Ironsong,"Azalea, Ace in the Hole",2,7,0,9,22.22% 
+Dorinthea Ironsong,"Rhinar, Reckless Rampage",1,0,0,1,100.00%
+Dorinthea Ironsong,"Fai, Rising Rebellion",2,0,0,2,100.00%
+Dorinthea Ironsong,"Bravo, Showstopper",3,2,0,5,60.00% 
+Dorinthea Ironsong,"Arakni, Huntsman",0,0,0,0,-
+Dorinthea Ironsong,"Kano, Dracai of Aether",1,3,0,4,25.00% 
+Dorinthea Ironsong,Dorinthea Ironsong,1,1,0,2,50.00% 
+Dorinthea Ironsong,"Levia, Shadowborn Abomination",2,0,0,2,100.00%
+Dorinthea Ironsong,"Briar, Warden of Thorns",1,2,0,3,33.33% 
+Dorinthea Ironsong,"Uzuri, Switchblade",3,3,1,7,42.86% 
+Dorinthea Ironsong,"Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+Dorinthea Ironsong,"Lexi, Livewire",6,18,0,24,25.00% 
+Dorinthea Ironsong,"Riptide, Lurker of the Deep",2,0,0,2,100.00%
+Dorinthea Ironsong,"Iyslander, Stormbind",0,1,0,1, 0.00% 
+Dorinthea Ironsong,"Dash, Inventor Extraordinaire",4,3,1,8,50.00% 
+Dorinthea Ironsong,"Viserai, Rune Blood",5,2,0,7,71.43% 
+Dorinthea Ironsong,"Katsu, the Wanderer",4,3,0,7,57.14% 
+Dorinthea Ironsong,"Oldhim, Grandfather of Eternity",1,8,1,10,10.00% 
+Dorinthea Ironsong,CLEANTOTAL,38,-,-,98,38.78%
+Dorinthea Ironsong,TOTAL,39,-,-,100,39.00%
+"Levia, Shadowborn Abomination",,0,0,0,0,-
+"Levia, Shadowborn Abomination","Dromai, Ash Artist",2,0,0,2,100.00%
+"Levia, Shadowborn Abomination","Azalea, Ace in the Hole",0,0,0,0,-
+"Levia, Shadowborn Abomination","Rhinar, Reckless Rampage",0,0,0,0,-
+"Levia, Shadowborn Abomination","Fai, Rising Rebellion",0,0,0,0,-
+"Levia, Shadowborn Abomination","Bravo, Showstopper",0,0,0,0,-
+"Levia, Shadowborn Abomination","Arakni, Huntsman",0,0,0,0,-
+"Levia, Shadowborn Abomination","Kano, Dracai of Aether",0,1,0,1, 0.00% 
+"Levia, Shadowborn Abomination",Dorinthea Ironsong,0,2,0,2, 0.00% 
+"Levia, Shadowborn Abomination","Levia, Shadowborn Abomination",1,1,0,2,50.00% 
+"Levia, Shadowborn Abomination","Briar, Warden of Thorns",0,0,0,0,-
+"Levia, Shadowborn Abomination","Uzuri, Switchblade",0,0,0,0,-
+"Levia, Shadowborn Abomination","Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+"Levia, Shadowborn Abomination","Lexi, Livewire",0,3,0,3, 0.00% 
+"Levia, Shadowborn Abomination","Riptide, Lurker of the Deep",0,0,0,0,-
+"Levia, Shadowborn Abomination","Iyslander, Stormbind",0,0,0,0,-
+"Levia, Shadowborn Abomination","Dash, Inventor Extraordinaire",1,0,0,1,100.00%
+"Levia, Shadowborn Abomination","Viserai, Rune Blood",0,2,0,2, 0.00% 
+"Levia, Shadowborn Abomination","Katsu, the Wanderer",0,1,0,1, 0.00% 
+"Levia, Shadowborn Abomination","Oldhim, Grandfather of Eternity",0,1,0,1, 0.00% 
+"Levia, Shadowborn Abomination",CLEANTOTAL,3,-,-,13,23.08%
+"Levia, Shadowborn Abomination",TOTAL,4,-,-,15,26.67%
+"Briar, Warden of Thorns",,1,0,0,1,100.00%
+"Briar, Warden of Thorns","Dromai, Ash Artist",14,19,0,33,42.42% 
+"Briar, Warden of Thorns","Azalea, Ace in the Hole",10,7,0,17,58.82% 
+"Briar, Warden of Thorns","Rhinar, Reckless Rampage",0,0,0,0,-
+"Briar, Warden of Thorns","Fai, Rising Rebellion",9,1,0,10,90.00% 
+"Briar, Warden of Thorns","Bravo, Showstopper",10,6,0,16,62.50% 
+"Briar, Warden of Thorns","Arakni, Huntsman",1,0,0,1,100.00%
+"Briar, Warden of Thorns","Kano, Dracai of Aether",1,1,0,2,50.00% 
+"Briar, Warden of Thorns",Dorinthea Ironsong,2,1,0,3,66.67% 
+"Briar, Warden of Thorns","Levia, Shadowborn Abomination",0,0,0,0,-
+"Briar, Warden of Thorns","Briar, Warden of Thorns",7,7,0,14,50.00% 
+"Briar, Warden of Thorns","Uzuri, Switchblade",4,6,0,10,40.00% 
+"Briar, Warden of Thorns","Ser Boltyn, Breaker of Dawn",3,5,0,8,37.50% 
+"Briar, Warden of Thorns","Lexi, Livewire",22,43,0,65,33.85% 
+"Briar, Warden of Thorns","Riptide, Lurker of the Deep",2,0,0,2,100.00%
+"Briar, Warden of Thorns","Iyslander, Stormbind",2,4,0,6,33.33% 
+"Briar, Warden of Thorns","Dash, Inventor Extraordinaire",7,4,0,11,63.64% 
+"Briar, Warden of Thorns","Viserai, Rune Blood",8,4,0,12,66.67% 
+"Briar, Warden of Thorns","Katsu, the Wanderer",13,10,0,23,56.52% 
+"Briar, Warden of Thorns","Oldhim, Grandfather of Eternity",14,13,2,29,48.28% 
+"Briar, Warden of Thorns",CLEANTOTAL,123,-,-,249,49.40%
+"Briar, Warden of Thorns",TOTAL,130,-,-,263,49.43%
+"Uzuri, Switchblade",,0,0,0,0,-
+"Uzuri, Switchblade","Dromai, Ash Artist",5,24,3,32,15.62% 
+"Uzuri, Switchblade","Azalea, Ace in the Hole",8,4,0,12,66.67% 
+"Uzuri, Switchblade","Rhinar, Reckless Rampage",3,4,0,7,42.86% 
+"Uzuri, Switchblade","Fai, Rising Rebellion",5,5,0,10,50.00% 
+"Uzuri, Switchblade","Bravo, Showstopper",4,5,0,9,44.44% 
+"Uzuri, Switchblade","Arakni, Huntsman",0,1,0,1, 0.00% 
+"Uzuri, Switchblade","Kano, Dracai of Aether",1,7,0,8,12.50% 
+"Uzuri, Switchblade",Dorinthea Ironsong,3,3,1,7,42.86% 
+"Uzuri, Switchblade","Levia, Shadowborn Abomination",0,0,0,0,-
+"Uzuri, Switchblade","Briar, Warden of Thorns",6,4,0,10,60.00% 
+"Uzuri, Switchblade","Uzuri, Switchblade",4,4,0,8,50.00% 
+"Uzuri, Switchblade","Ser Boltyn, Breaker of Dawn",1,0,0,1,100.00%
+"Uzuri, Switchblade","Lexi, Livewire",28,23,1,52,53.85% 
+"Uzuri, Switchblade","Riptide, Lurker of the Deep",0,0,1,1, 0.00% 
+"Uzuri, Switchblade","Iyslander, Stormbind",3,2,0,5,60.00% 
+"Uzuri, Switchblade","Dash, Inventor Extraordinaire",4,6,1,11,36.36% 
+"Uzuri, Switchblade","Viserai, Rune Blood",2,12,0,14,14.29% 
+"Uzuri, Switchblade","Katsu, the Wanderer",10,4,0,14,71.43% 
+"Uzuri, Switchblade","Oldhim, Grandfather of Eternity",8,14,3,25,32.00% 
+"Uzuri, Switchblade",CLEANTOTAL,91,-,-,219,41.55%
+"Uzuri, Switchblade",TOTAL,95,-,-,227,41.85%
+"Ser Boltyn, Breaker of Dawn",,0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn","Dromai, Ash Artist",2,4,0,6,33.33% 
+"Ser Boltyn, Breaker of Dawn","Azalea, Ace in the Hole",2,3,0,5,40.00% 
+"Ser Boltyn, Breaker of Dawn","Rhinar, Reckless Rampage",1,0,0,1,100.00%
+"Ser Boltyn, Breaker of Dawn","Fai, Rising Rebellion",0,1,0,1, 0.00% 
+"Ser Boltyn, Breaker of Dawn","Bravo, Showstopper",1,1,0,2,50.00% 
+"Ser Boltyn, Breaker of Dawn","Arakni, Huntsman",1,0,0,1,100.00%
+"Ser Boltyn, Breaker of Dawn","Kano, Dracai of Aether",1,1,0,2,50.00% 
+"Ser Boltyn, Breaker of Dawn",Dorinthea Ironsong,0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn","Levia, Shadowborn Abomination",0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn","Briar, Warden of Thorns",5,3,0,8,62.50% 
+"Ser Boltyn, Breaker of Dawn","Uzuri, Switchblade",0,1,0,1, 0.00% 
+"Ser Boltyn, Breaker of Dawn","Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn","Lexi, Livewire",4,9,1,14,28.57% 
+"Ser Boltyn, Breaker of Dawn","Riptide, Lurker of the Deep",0,0,0,0,-
+"Ser Boltyn, Breaker of Dawn","Iyslander, Stormbind",0,2,0,2, 0.00% 
+"Ser Boltyn, Breaker of Dawn","Dash, Inventor Extraordinaire",4,0,0,4,100.00%
+"Ser Boltyn, Breaker of Dawn","Viserai, Rune Blood",2,2,0,4,50.00% 
+"Ser Boltyn, Breaker of Dawn","Katsu, the Wanderer",0,1,0,1, 0.00% 
+"Ser Boltyn, Breaker of Dawn","Oldhim, Grandfather of Eternity",1,1,1,3,33.33% 
+"Ser Boltyn, Breaker of Dawn",CLEANTOTAL,24,-,-,55,43.64%
+"Ser Boltyn, Breaker of Dawn",TOTAL,24,-,-,55,43.64%
+"Lexi, Livewire",,0,0,0,0,-
+"Lexi, Livewire","Dromai, Ash Artist",75,70,0,145,51.72% 
+"Lexi, Livewire","Azalea, Ace in the Hole",30,45,0,75,40.00% 
+"Lexi, Livewire","Rhinar, Reckless Rampage",9,1,0,10,90.00% 
+"Lexi, Livewire","Fai, Rising Rebellion",18,5,0,23,78.26% 
+"Lexi, Livewire","Bravo, Showstopper",29,27,0,56,51.79% 
+"Lexi, Livewire","Arakni, Huntsman",0,2,0,2, 0.00% 
+"Lexi, Livewire","Kano, Dracai of Aether",11,5,0,16,68.75% 
+"Lexi, Livewire",Dorinthea Ironsong,18,6,0,24,75.00% 
+"Lexi, Livewire","Levia, Shadowborn Abomination",3,0,0,3,100.00%
+"Lexi, Livewire","Briar, Warden of Thorns",43,22,0,65,66.15% 
+"Lexi, Livewire","Uzuri, Switchblade",23,28,1,52,44.23% 
+"Lexi, Livewire","Ser Boltyn, Breaker of Dawn",9,4,1,14,64.29% 
+"Lexi, Livewire","Lexi, Livewire",113,113,2,228,49.56% 
+"Lexi, Livewire","Riptide, Lurker of the Deep",7,3,0,10,70.00% 
+"Lexi, Livewire","Iyslander, Stormbind",16,6,0,22,72.73% 
+"Lexi, Livewire","Dash, Inventor Extraordinaire",30,19,0,49,61.22% 
+"Lexi, Livewire","Viserai, Rune Blood",35,12,0,47,74.47% 
+"Lexi, Livewire","Katsu, the Wanderer",39,30,0,69,56.52% 
+"Lexi, Livewire","Oldhim, Grandfather of Eternity",45,75,9,129,34.88% 
+"Lexi, Livewire",CLEANTOTAL,440,-,-,811,54.25%
+"Lexi, Livewire",TOTAL,553,-,-,1039,53.22%
+"Riptide, Lurker of the Deep",,0,0,0,0,-
+"Riptide, Lurker of the Deep","Dromai, Ash Artist",0,2,0,2, 0.00% 
+"Riptide, Lurker of the Deep","Azalea, Ace in the Hole",0,1,0,1, 0.00% 
+"Riptide, Lurker of the Deep","Rhinar, Reckless Rampage",0,1,0,1, 0.00% 
+"Riptide, Lurker of the Deep","Fai, Rising Rebellion",1,0,0,1,100.00%
+"Riptide, Lurker of the Deep","Bravo, Showstopper",1,1,0,2,50.00% 
+"Riptide, Lurker of the Deep","Arakni, Huntsman",0,0,0,0,-
+"Riptide, Lurker of the Deep","Kano, Dracai of Aether",0,0,0,0,-
+"Riptide, Lurker of the Deep",Dorinthea Ironsong,0,2,0,2, 0.00% 
+"Riptide, Lurker of the Deep","Levia, Shadowborn Abomination",0,0,0,0,-
+"Riptide, Lurker of the Deep","Briar, Warden of Thorns",0,2,0,2, 0.00% 
+"Riptide, Lurker of the Deep","Uzuri, Switchblade",0,0,1,1, 0.00% 
+"Riptide, Lurker of the Deep","Ser Boltyn, Breaker of Dawn",0,0,0,0,-
+"Riptide, Lurker of the Deep","Lexi, Livewire",3,7,0,10,30.00% 
+"Riptide, Lurker of the Deep","Riptide, Lurker of the Deep",0,0,0,0,-
+"Riptide, Lurker of the Deep","Iyslander, Stormbind",0,0,0,0,-
+"Riptide, Lurker of the Deep","Dash, Inventor Extraordinaire",0,1,0,1, 0.00% 
+"Riptide, Lurker of the Deep","Viserai, Rune Blood",0,0,0,0,-
+"Riptide, Lurker of the Deep","Katsu, the Wanderer",1,1,0,2,50.00% 
+"Riptide, Lurker of the Deep","Oldhim, Grandfather of Eternity",0,2,0,2, 0.00% 
+"Riptide, Lurker of the Deep",CLEANTOTAL,6,-,-,27,22.22%
+"Riptide, Lurker of the Deep",TOTAL,6,-,-,27,22.22%
+"Iyslander, Stormbind",,0,0,0,0,-
+"Iyslander, Stormbind","Dromai, Ash Artist",7,5,2,14,50.00% 
+"Iyslander, Stormbind","Azalea, Ace in the Hole",0,2,0,2, 0.00% 
+"Iyslander, Stormbind","Rhinar, Reckless Rampage",0,0,0,0,-
+"Iyslander, Stormbind","Fai, Rising Rebellion",4,0,0,4,100.00%
+"Iyslander, Stormbind","Bravo, Showstopper",4,3,0,7,57.14% 
+"Iyslander, Stormbind","Arakni, Huntsman",0,0,0,0,-
+"Iyslander, Stormbind","Kano, Dracai of Aether",1,0,0,1,100.00%
+"Iyslander, Stormbind",Dorinthea Ironsong,1,0,0,1,100.00%
+"Iyslander, Stormbind","Levia, Shadowborn Abomination",0,0,0,0,-
+"Iyslander, Stormbind","Briar, Warden of Thorns",4,2,0,6,66.67% 
+"Iyslander, Stormbind","Uzuri, Switchblade",2,3,0,5,40.00% 
+"Iyslander, Stormbind","Ser Boltyn, Breaker of Dawn",2,0,0,2,100.00%
+"Iyslander, Stormbind","Lexi, Livewire",6,16,0,22,27.27% 
+"Iyslander, Stormbind","Riptide, Lurker of the Deep",0,0,0,0,-
+"Iyslander, Stormbind","Iyslander, Stormbind",3,3,0,6,50.00% 
+"Iyslander, Stormbind","Dash, Inventor Extraordinaire",6,5,0,11,54.55% 
+"Iyslander, Stormbind","Viserai, Rune Blood",6,0,0,6,100.00%
+"Iyslander, Stormbind","Katsu, the Wanderer",3,5,0,8,37.50% 
+"Iyslander, Stormbind","Oldhim, Grandfather of Eternity",11,7,0,18,61.11% 
+"Iyslander, Stormbind",CLEANTOTAL,57,-,-,107,53.27%
+"Iyslander, Stormbind",TOTAL,60,-,-,113,53.10%
+"Dash, Inventor Extraordinaire",,0,0,0,0,-
+"Dash, Inventor Extraordinaire","Dromai, Ash Artist",9,16,2,27,33.33% 
+"Dash, Inventor Extraordinaire","Azalea, Ace in the Hole",3,8,0,11,27.27% 
+"Dash, Inventor Extraordinaire","Rhinar, Reckless Rampage",1,1,0,2,50.00% 
+"Dash, Inventor Extraordinaire","Fai, Rising Rebellion",5,5,0,10,50.00% 
+"Dash, Inventor Extraordinaire","Bravo, Showstopper",9,8,0,17,52.94% 
+"Dash, Inventor Extraordinaire","Arakni, Huntsman",1,1,0,2,50.00% 
+"Dash, Inventor Extraordinaire","Kano, Dracai of Aether",3,2,0,5,60.00% 
+"Dash, Inventor Extraordinaire",Dorinthea Ironsong,3,4,1,8,37.50% 
+"Dash, Inventor Extraordinaire","Levia, Shadowborn Abomination",0,1,0,1, 0.00% 
+"Dash, Inventor Extraordinaire","Briar, Warden of Thorns",4,7,0,11,36.36% 
+"Dash, Inventor Extraordinaire","Uzuri, Switchblade",6,4,1,11,54.55% 
+"Dash, Inventor Extraordinaire","Ser Boltyn, Breaker of Dawn",0,4,0,4, 0.00% 
+"Dash, Inventor Extraordinaire","Lexi, Livewire",19,30,0,49,38.78% 
+"Dash, Inventor Extraordinaire","Riptide, Lurker of the Deep",1,0,0,1,100.00%
+"Dash, Inventor Extraordinaire","Iyslander, Stormbind",5,6,0,11,45.45% 
+"Dash, Inventor Extraordinaire","Dash, Inventor Extraordinaire",8,8,0,16,50.00% 
+"Dash, Inventor Extraordinaire","Viserai, Rune Blood",2,7,0,9,22.22% 
+"Dash, Inventor Extraordinaire","Katsu, the Wanderer",5,8,0,13,38.46% 
+"Dash, Inventor Extraordinaire","Oldhim, Grandfather of Eternity",19,14,1,34,55.88% 
+"Dash, Inventor Extraordinaire",CLEANTOTAL,95,-,-,226,42.04%
+"Dash, Inventor Extraordinaire",TOTAL,103,-,-,242,42.56%
+"Viserai, Rune Blood",,0,0,0,0,-
+"Viserai, Rune Blood","Dromai, Ash Artist",27,12,0,39,69.23% 
+"Viserai, Rune Blood","Azalea, Ace in the Hole",3,10,0,13,23.08% 
+"Viserai, Rune Blood","Rhinar, Reckless Rampage",2,0,0,2,100.00%
+"Viserai, Rune Blood","Fai, Rising Rebellion",5,4,0,9,55.56% 
+"Viserai, Rune Blood","Bravo, Showstopper",9,7,0,16,56.25% 
+"Viserai, Rune Blood","Arakni, Huntsman",0,1,0,1, 0.00% 
+"Viserai, Rune Blood","Kano, Dracai of Aether",0,2,0,2, 0.00% 
+"Viserai, Rune Blood",Dorinthea Ironsong,2,5,0,7,28.57% 
+"Viserai, Rune Blood","Levia, Shadowborn Abomination",2,0,0,2,100.00%
+"Viserai, Rune Blood","Briar, Warden of Thorns",4,8,0,12,33.33% 
+"Viserai, Rune Blood","Uzuri, Switchblade",12,2,0,14,85.71% 
+"Viserai, Rune Blood","Ser Boltyn, Breaker of Dawn",2,2,0,4,50.00% 
+"Viserai, Rune Blood","Lexi, Livewire",12,35,0,47,25.53% 
+"Viserai, Rune Blood","Riptide, Lurker of the Deep",0,0,0,0,-
+"Viserai, Rune Blood","Iyslander, Stormbind",0,6,0,6, 0.00% 
+"Viserai, Rune Blood","Dash, Inventor Extraordinaire",7,2,0,9,77.78% 
+"Viserai, Rune Blood","Viserai, Rune Blood",11,11,0,22,50.00% 
+"Viserai, Rune Blood","Katsu, the Wanderer",11,4,0,15,73.33% 
+"Viserai, Rune Blood","Oldhim, Grandfather of Eternity",4,15,0,19,21.05% 
+"Viserai, Rune Blood",CLEANTOTAL,102,-,-,217,47.00%
+"Viserai, Rune Blood",TOTAL,113,-,-,239,47.28%
+"Katsu, the Wanderer",,0,0,0,0,-
+"Katsu, the Wanderer","Dromai, Ash Artist",17,14,0,31,54.84% 
+"Katsu, the Wanderer","Azalea, Ace in the Hole",7,9,0,16,43.75% 
+"Katsu, the Wanderer","Rhinar, Reckless Rampage",3,1,0,4,75.00% 
+"Katsu, the Wanderer","Fai, Rising Rebellion",4,8,0,12,33.33% 
+"Katsu, the Wanderer","Bravo, Showstopper",9,9,0,18,50.00% 
+"Katsu, the Wanderer","Arakni, Huntsman",1,1,0,2,50.00% 
+"Katsu, the Wanderer","Kano, Dracai of Aether",7,3,0,10,70.00% 
+"Katsu, the Wanderer",Dorinthea Ironsong,3,4,0,7,42.86% 
+"Katsu, the Wanderer","Levia, Shadowborn Abomination",1,0,0,1,100.00%
+"Katsu, the Wanderer","Briar, Warden of Thorns",10,13,0,23,43.48% 
+"Katsu, the Wanderer","Uzuri, Switchblade",4,10,0,14,28.57% 
+"Katsu, the Wanderer","Ser Boltyn, Breaker of Dawn",1,0,0,1,100.00%
+"Katsu, the Wanderer","Lexi, Livewire",30,39,0,69,43.48% 
+"Katsu, the Wanderer","Riptide, Lurker of the Deep",1,1,0,2,50.00% 
+"Katsu, the Wanderer","Iyslander, Stormbind",5,3,0,8,62.50% 
+"Katsu, the Wanderer","Dash, Inventor Extraordinaire",8,5,0,13,61.54% 
+"Katsu, the Wanderer","Viserai, Rune Blood",4,11,0,15,26.67% 
+"Katsu, the Wanderer","Katsu, the Wanderer",12,12,0,24,50.00% 
+"Katsu, the Wanderer","Oldhim, Grandfather of Eternity",7,18,0,25,28.00% 
+"Katsu, the Wanderer",CLEANTOTAL,122,-,-,271,45.02%
+"Katsu, the Wanderer",TOTAL,134,-,-,295,45.42%
+"Oldhim, Grandfather of Eternity",,0,0,0,0,-
+"Oldhim, Grandfather of Eternity","Dromai, Ash Artist",48,16,5,69,69.57% 
+"Oldhim, Grandfather of Eternity","Azalea, Ace in the Hole",21,14,1,36,58.33% 
+"Oldhim, Grandfather of Eternity","Rhinar, Reckless Rampage",3,3,0,6,50.00% 
+"Oldhim, Grandfather of Eternity","Fai, Rising Rebellion",6,11,0,17,35.29% 
+"Oldhim, Grandfather of Eternity","Bravo, Showstopper",21,11,0,32,65.62% 
+"Oldhim, Grandfather of Eternity","Arakni, Huntsman",4,0,0,4,100.00%
+"Oldhim, Grandfather of Eternity","Kano, Dracai of Aether",5,7,0,12,41.67% 
+"Oldhim, Grandfather of Eternity",Dorinthea Ironsong,8,1,1,10,80.00% 
+"Oldhim, Grandfather of Eternity","Levia, Shadowborn Abomination",1,0,0,1,100.00%
+"Oldhim, Grandfather of Eternity","Briar, Warden of Thorns",13,14,2,29,44.83% 
+"Oldhim, Grandfather of Eternity","Uzuri, Switchblade",14,8,3,25,56.00% 
+"Oldhim, Grandfather of Eternity","Ser Boltyn, Breaker of Dawn",1,1,1,3,33.33% 
+"Oldhim, Grandfather of Eternity","Lexi, Livewire",75,45,9,129,58.14% 
+"Oldhim, Grandfather of Eternity","Riptide, Lurker of the Deep",2,0,0,2,100.00%
+"Oldhim, Grandfather of Eternity","Iyslander, Stormbind",7,11,0,18,38.89% 
+"Oldhim, Grandfather of Eternity","Dash, Inventor Extraordinaire",14,19,1,34,41.18% 
+"Oldhim, Grandfather of Eternity","Viserai, Rune Blood",15,4,0,19,78.95% 
+"Oldhim, Grandfather of Eternity","Katsu, the Wanderer",18,7,0,25,72.00% 
+"Oldhim, Grandfather of Eternity","Oldhim, Grandfather of Eternity",44,44,2,90,48.89% 
+"Oldhim, Grandfather of Eternity",CLEANTOTAL,276,-,-,471,58.60%
+"Oldhim, Grandfather of Eternity",TOTAL,320,-,-,561,57.04%
